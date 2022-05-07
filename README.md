@@ -1,2 +1,3 @@
 # devops_ci
-spring boot + angular
+EWGFRF
+ boot + angular
